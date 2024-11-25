@@ -1,7 +1,7 @@
 # Matheminesweeper
 Developed in a pair for a university course focusing on proficiency in Wolfram's Mathematica, this game attempts to recreate the classic Minesweeper in the aforementioned language, with the twist of using a tesselated pattern of dodecagons, hexagons, and squares.
 
-Play via Wolfram Player: https://www.wolfram.com/player/
+Play by running the matheminesweeper.nb file via Wolfram Player: https://www.wolfram.com/player/
 
 # Screenshots
 ![image](https://github.com/user-attachments/assets/6419e5cb-cf9b-435e-abf4-172332887f1a)
